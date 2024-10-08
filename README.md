@@ -9,6 +9,16 @@ Understand call patterns (peak hours, call duration, call volume).
 Evaluate agent performance based on key metrics like call handling time, customer satisfaction ratings, etc.
 Identify potential bottlenecks or inefficiencies within the call center operation.
 Provide actionable insights to improve customer experience and call center efficiency.
+ Overall customer satisfaction
+ 
+ Overall calls answered/abandoned
+ 
+ Calls by time
+ 
+Average speed of answer
+
+Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
 # Tools and Technology
 Data Handling: SQL
 Reporting: Power BI 
